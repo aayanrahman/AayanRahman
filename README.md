@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently applying to **internships**
  
  🌱 I’m currently learning **MySQL, ML, Pandas**
 
@@ -42,7 +42,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aayanrahman/aayanrahman/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
